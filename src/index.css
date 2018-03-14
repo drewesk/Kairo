@@ -1,0 +1,56 @@
+@import '~antd/dist/antd.css';
+
+body {
+  background-color: #3B4F52;
+  margin: 0;
+}
+
+.column {
+  border-top: #18E191;
+}
+
+.counter {
+  background-color: #5995E7;
+  color: '#00CCCC';
+  font-size: '2em';
+  font-weight: 900;
+}
+
+.counter-hide {
+  display: none;
+}
+
+.DMS-1 {
+  background-color: #488D7A;
+  height: 400px;
+}
+
+.DMS-2 {
+  background-color: #466A60;
+  height: 400px;
+}
+
+.content-box {
+  min-height: 100vh;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  background-color: #4C7385;
+  margin-bottom: 10%;
+}
+
+.carousel {
+  width: 80vw;
+}
+
+.layout {
+  background-color: #3B4F52
+}
+
+/* .menu-2 {
+  width: 200px;
+} */
+
+.top-button {
+  background-color: #000;
+}
